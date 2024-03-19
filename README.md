@@ -58,7 +58,7 @@ In this repo i have created a SMS Spam Detection in machine learning using NLP, 
 ```
 
 ## ScreenShot :camera_flash:
-![](https://github.com/nyiel/SMS-Spam-detection-using-Machine-Learning/blob/master/Images/1.png)    ![](https://github.com/nyiel/SMS-Spam-detection-using-Machine-Learning/blob/master/Images/2.png) 
+![](https://github.com/nyiel/SMS-Spam-detection-using-Machine-Learning/blob/main/Images/1.png)    ![](https://github.com/nyiel/SMS-Spam-detection-using-Machine-Learning/blob/main/Images/2.png) 
 
 ## Connect with me! 🌐
 Known on internet as **Ayuen Kon Nyiel**
