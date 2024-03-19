@@ -1,4 +1,4 @@
-# SMS spam detection using Machine Learning :notebook: &nbsp;[![]
+# SMS spam detection using Machine Learning :notebook: &nbsp;
 In this repo i have created a SMS Spam Detection in machine learning using NLP, and i am using [nltk](https://pypi.org/project/nltk/) Library for NLP. 
  - [[Jupyter Notebook]](https://github.com/nyiel/SMS-Spam-detection-using-Machine-Learning)
 
